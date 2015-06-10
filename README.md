@@ -13,4 +13,4 @@ Github &amp; Notepad++ Combo Javascript Syntax Color Scheme
 
 ## Activating the color theme
 
-`Preferences -> Color Scheme -> GitHub`.
+`Preferences -> Color Scheme -> GitHub Javascript`.
